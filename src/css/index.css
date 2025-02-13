@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #121212;
+  color: white;
+}
+
+/* Centering the container */
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
